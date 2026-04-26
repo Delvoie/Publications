@@ -22,3 +22,4 @@ local buses but lacking density for subway investment.
 - Projected 20–30 minute commute reductions for corridor residents
 
 ![ART Research Poster](./poster.png)
+[Full Report (PDF)](./Autonomous Rapid Transit Feasibility in Toronto.pdf)
